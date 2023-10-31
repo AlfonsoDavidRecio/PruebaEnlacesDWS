@@ -1,0 +1,1 @@
+En la segunda version hemos creado un documento llamado procesos.php en el que le pasamos la opcion de borrar o modificar por url y tenemos que llamar a la funcion header.
